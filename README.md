@@ -161,7 +161,7 @@ We welcome contributions! Please follow these steps:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the MIT(LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -170,10 +170,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Firebase](https://firebase.google.com/) for backend services
 - All contributors who have helped make MealLens better
 
-## 📞 Support
+## 📞 Contact
 
-For support, email support@meallens.app or open an issue on GitHub.
+For support, email kottamgari.m@northeastern.edu or open an issue on GitHub.
 
 ---
 
-<p align="center">Made with ❤️ by the MealLens Team</p>
+<p align="center">Made with ❤️ by Manish Kottamgari</p>
